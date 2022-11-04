@@ -1,4 +1,4 @@
-## Ola, me chamo Eder Assis
+## Ola, me chamo Eder Assis, sejam bem vindos ao meu perfil GitHub!
 <div align="center">
   <a href="https://github.com/assis1983">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assis1983&show_icons=true&theme=highcontrast&include_all_commits=true&title_color=pink&count_private=true"/>
