@@ -30,7 +30,7 @@
   <a href = "mailto:assis.ederjd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0000CD?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
-  <a href="https://www.freepik.com/free-photo/coffee_1271492.htm" target="_blank"><img src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/coffee.png" alt="Free coffee for visitors" style="height: 40px !important;width: 150px !important;" ></a>
+  <a href="https://www.freepik.com/free-photo/coffee_1271492.htm" target="_blank"><img src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/coffee.png" 
   
   
 </div>
