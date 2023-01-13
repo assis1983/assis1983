@@ -23,7 +23,11 @@
 <div>
 <a href="https://github.com/assis1983">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assis1983&layout=compact&langs_count=7&theme=highcontrast&include_all_commits"/><img height="170em" src="https://github-readme-stats.vercel.app/api?username=assis1983&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-</div>          
+</div>      
+
+#
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/assis1983/count.svg" /></p>  
+  
           
           
           
