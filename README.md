@@ -1,7 +1,7 @@
 # Ola, Me chamo Eder! Bem vindo ao meu Perfil GitHub.
 
 # Tecnologias e Ferramentas:
-<div style="display: inline_block"><br>
+<div align = "center" style="display: inline_block"><br>
   <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Isa-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
@@ -15,7 +15,7 @@
   
 
 # Contatos:
-<div>
+<div align="center">
 <a href="https://www.linkedin.com/in/ederrassis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/ederr_assis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:assis.ederjd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
